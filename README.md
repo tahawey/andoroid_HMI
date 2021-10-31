@@ -7,3 +7,4 @@ Digital power meter (DPM) schneider pm710 as sample
 تم اختبار الكود على DPM pm710 الخاص بشنايدر
 الاتصال عن طريق بروتوكول TCP/IP  Modbus
 
+/2.png
